@@ -1,9 +1,9 @@
 # yolov3_rotate_demo
 yolov3旋转矩形，倾斜框检测；
 
-基于ultralytics pytorch版本yolov3改进而成，在hrsc2016舰船数据集上测试，608x608单尺度下，mAP 可以达到0.8+，在nms=0.3, conf=0.01下可以达到mAP 0.84。
+基于ultralytics pytorch版本yolov3改进而成，在hrsc2016舰船数据集上测试，608x608单尺度，nms=0.5, conf=0.1下，mAP 可以达到0.843，在nms=0.3, conf=0.01下可以达到mAP 0.87+。
 
-![这里随便写文字](https://github.com/clw5180/yolov3_rotate_demo/blob/master/1.jpg)  
+![这里随便写文字](https://github.com/clw5180/yolov3_rotate_demo/blob/master/result.jpg)  
 
 ![这里随便写文字](https://github.com/clw5180/yolov3_rotate_demo/blob/master/100000658.jpg)  
 
