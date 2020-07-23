@@ -15,7 +15,7 @@ yolov3旋转矩形，倾斜框检测；
 
 
 
-通过多种针对倾斜框的数据增强方式来提升识别效果，如旋转一定角度；
+目前实现了几种针对倾斜框的数据增强方式（如典型的randomcrop, translate, rotate，resize等），在训练时加入能够大幅提升识别效果；
 
 ![这里随便写文字](https://github.com/clw5180/yolov3_rotate_demo/blob/master/RandomRotateAngle2.jpg)  
 
